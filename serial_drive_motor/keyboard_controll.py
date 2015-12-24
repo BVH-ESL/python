@@ -2,8 +2,8 @@ import serial
 from time import sleep
 import tty, sys
 
-speed_a = 50
-speed_b = 50
+speed_a = 75
+speed_b = 75
 dir_a = 0
 dir_b = 0
 
